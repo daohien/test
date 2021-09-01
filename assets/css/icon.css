@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'icons-rubix';
+  src:  url('../fonts/icons-rubix.eot?dyvsyj');
+  src:  url('../fonts/icons-rubix.eot?dyvsyj#iefix') format('embedded-opentype'),
+    url('../fonts/icons-rubix.ttf?dyvsyj') format('truetype'),
+    url('../fonts/icons-rubix.woff?dyvsyj') format('woff'),
+    url('../fonts/icons-rubix.svg?dyvsyj#icons-rubix') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons-rubix' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bars:before {
+  content: "\e911";
+}
+.icon-plane:before {
+  content: "\e90d";
+}
+.icon-return-box:before {
+  content: "\e90e";
+}
+.icon-shopping-bag1:before {
+  content: "\e901";
+}
+.icon-headphones:before {
+  content: "\e902";
+}
+.icon-dribbble:before {
+  content: "\e900";
+}
+.icon-search:before {
+  content: "\e907";
+}
+.icon-mail-envelope-closed:before {
+  content: "\e904";
+}
+.icon-social-twitter:before {
+  content: "\e905";
+}
+.icon-social-facebook:before {
+  content: "\e903";
+}
+.icon-credit_card:before {
+  content: "\e90f";
+}
+.icon-person_outline:before {
+  content: "\e908";
+}
+.icon-perm_identity:before {
+  content: "\e908";
+}
+.icon-chevron-down:before {
+  content: "\e910";
+}
+.icon-chevron-right:before {
+  content: "\e909";
+}
+.icon-shopping-bag:before {
+  content: "\e90a";
+}
+.icon-heart:before {
+  content: "\e90b";
+}
+.icon-phone-incoming:before {
+  content: "\e90c";
+}
+.icon-instagram:before {
+  content: "\e906";
+}
+.icon-map-pin:before {
+  content: "\e93f";
+}
